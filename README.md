@@ -6,4 +6,4 @@ Adding Additional line
 Just some edits
 to check the diff
 
-Update in another branch
+To have conflict
